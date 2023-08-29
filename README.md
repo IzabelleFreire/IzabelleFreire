@@ -7,6 +7,7 @@ Base de Dados, bem como aprender linguagens de programação.
 <h2>Tecnologias</h2>
 - Windows
 - GitHub
+- VScode
 - Python
 - Pergamum
 
