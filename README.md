@@ -4,11 +4,14 @@ Formada em Biblioteconomia pela UFPE, estou atualmente agregando a minha formaç
 Análise e Desenvolvimento de Sistemas, pretendo desenvolver habilidades na criação e desenvolvimento de 
 Base de Dados, bem como aprender linguagens de programação.
 
-<h2>Tecnologias</h2>
+<h2>Tecnologias e Linguagens </h2>
 - Windows
 - GitHub
 - VScode
 - Python
+- HTML
+- CSS
+- JavaScript
 - Pergamum
 
 
